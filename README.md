@@ -1,5 +1,9 @@
 # Ring Intercom Talk Card
 
+![Ring Intercom Talk Card preview](docs/images/preview.png)
+
+*Rendered from the card code with example data (no real Home Assistant). Right: an active call – the call state is simulated (no WebRTC connection in the preview).*
+
 Lovelace card (`custom:ring-sprechen-card`) for two-way talk with a visitor at a **Ring Intercom** directly from a dashboard, using WebRTC through the camera entity of the **Ring Intercom Talk** integration (`ring_intercom_talk_ha_integration`, domain `ring_sprechanlage`).
 
 UI language: German.
